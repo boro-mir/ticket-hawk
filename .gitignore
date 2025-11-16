@@ -144,3 +144,6 @@ vite.config.ts.timestamp-*
 *.iws
 *.ipr
 out/
+
+# SQLite database
+data/
